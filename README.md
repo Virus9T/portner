@@ -24,7 +24,7 @@
 ## 📋 Usage
 
    ```bash
-   git clone https://github.com/yourusername/portner.git
-   cd portner
-   python portner.py
+   >git clone https://github.com/yourusername/portner.git
+   >cd portner
+   >python portner.py
    
