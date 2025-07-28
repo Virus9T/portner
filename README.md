@@ -19,7 +19,7 @@
 
 - Python3
 - Internet Connection
-- Works Best on Linux Terminal or Windows Ascii suppoeted Terminal
+- Works Best on Linux Terminals or Ascii Suppoeted Windows Terminal
 
 ## 📋 Usage
 
