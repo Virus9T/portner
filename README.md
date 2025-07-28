@@ -15,6 +15,12 @@
 
 ---
 
+## 🧾 Requirements
+
+- Python3
+- Internet Connection
+- Works Best on Linux Terminal or Windows Ascii suppoeted Terminal
+
 ## 📋 Usage
 
    ```bash
